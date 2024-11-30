@@ -1,6 +1,5 @@
 import cv2
 import mediapipe as mp
-# from google.colab.patches import cv2_imshow
 
 mp_face_detection = mp.solutions.face_detection
 mp_hands = mp.solutions.hands
